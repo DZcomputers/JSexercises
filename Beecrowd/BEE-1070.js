@@ -19,7 +19,11 @@ for (i = 0; i < 6; i++) {
 }
 
 // "Tradução" das linhas 11 a 19:
-// O contador vai começar sendo zero. Ele irá adicionar uma unidade ao seu valor até ele atingir um valor menor que seis. À medida que ele faz tudo isso, o computador verificará se o número digitado pelo usuário não é divisível por 2. Se for o caso, mostre o número e adiciona 2 a ele sucessivas vezes até o contador não puder mais. Se não, adicione 1 ao número, mostre-o ao usuário e adiciona dois a ele.
+// O contador vai começar sendo zero. 
+// Ele irá adicionar uma unidade ao seu valor até ele atingir um valor menor que seis.
+// À medida que ele faz tudo isso, o computador verificará se o número digitado pelo usuário não é divisível por 2. 
+// Se for o caso, mostre o número e adiciona 2 a ele sucessivas vezes até o contador não puder mais. 
+// Se não, adicione 1 ao número, mostre-o ao usuário e adiciona dois a ele.
 
 // Abaixo é a mesma coisa, só que usando um loop While:
 // [...]
